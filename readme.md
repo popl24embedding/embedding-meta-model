@@ -4,7 +4,7 @@
 In the `data` directory, set up the following folders:
 - `java_files`: This folder should contain a repository of Java projects. The structure should be `java_files/project/version`. The order and hierarchy of the files within this directory are not important. We will iterate over all the files and use only the `.java` files.
 - `Project_Arff`: Place all the ARFF format files in this directory. These files are created based on a CSV file of features (instructions on creating them will be provided separately in section 2).
-- `Results_Rest`: Save all the results of the different algorithms from the algorithm repository in this directory. Instructions on obtaining the results will be provided separately in section 2. This path uses the MATLAB algorithm repository.
+- `Results_Rest`: Save all the results of the different algorithms from the algorithm repository in this directory. Instructions on obtaining the results will be provided separately in section 2. This path uses the MATLAB algorithm repository. Based on: https://bitbucket.org/ChaoLiuCQ/replication-kit-ist2018-tptl
 - `MCW`: Save all the results of the MCW algorithm in this directory. Instructions on obtaining the results will be provided separately in section 2.
 
 ## 2. Extracting the Labels:
