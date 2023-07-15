@@ -20,5 +20,17 @@ Now that you have completed the necessary steps for the meta model, you can run 
 ## General Comment:
 Our data is divided into two batches. In the notebook, we use two directories and perform two readings of the features and labels. However, for your own data, you can choose to use only one directory. Instructions specific to your data are provided in detail in the `meta-model.ipynb` notebook, in section 4.
 
+### Data Repo:
+**1. Metrics_datasets.csv (both batches):**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8147633.svg)](https://doi.org/10.5281/zenodo.8147633)
+
+**2. Data folder that contains:**
+1. MCW (batch 1 & batch 2) results
+2. Results_Rest (batch 1 & batch 2) - from MATLAB algorithms.
+3. Project Arff (batch 1 & batch 2)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150398.svg)](https://doi.org/10.5281/zenodo.8150398)
+
 
 
