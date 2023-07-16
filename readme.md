@@ -32,5 +32,17 @@ Our data is divided into two batches. In the notebook, we use two directories an
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150398.svg)](https://doi.org/10.5281/zenodo.8150398)
 
+**3. Java source code:**
+
+As mentioned we used 2 batches of data for the analysis, attached is the source code (java source code) of these batches. To get the complete zip file you should download both part and merge the zip files:
+
+Batch 1:
+- Part 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150412.svg)](https://doi.org/10.5281/zenodo.8150412)
+- Part 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150885.svg)](https://doi.org/10.5281/zenodo.8150885)
+
+Batch 2:
+- Part 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8152041.svg)](https://doi.org/10.5281/zenodo.8152041)
+- Part 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8152156.svg)](https://doi.org/10.5281/zenodo.8152156)
+
 
 
