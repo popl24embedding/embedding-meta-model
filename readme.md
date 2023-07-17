@@ -1,4 +1,4 @@
-# Steps to use the embedding-based meta model:
+# Steps to replicate the creation and evaluation of embedding-based:
 
 ## 1. Create Data Folder:
 In the `data` directory, set up the following folders:
@@ -8,11 +8,15 @@ In the `data` directory, set up the following folders:
 - `MCW`: Save all the results of the MCW algorithm in this directory. Instructions on obtaining the results will be provided separately in section 2.
 
 ## 2. Extracting the Labels:
-Please refer to the detailed readme file located in the `labels extraction` folder for instructions on extracting the labels.
+Please refer to the detailed readme file located in the `labels extraction` folder for instructions on extracting the labels: 
+[a relative link](labels extraction/readme.md)
+
 
 ## 3. Features Extraction:
 - **Statistical Meta Features:** Execute the `statistical meta features.py` script to generate the statistical meta features.
-- **Embedding-based Meta Features:** Please refer to the detailed readme file located in the `embedding java files` folder for instructions on extracting embedding-based meta features from Java files.
+- **Embedding-based Meta Features:** Please refer to the detailed readme file located in the `embedding java files` folder for instructions on extracting embedding-based meta features from Java files:
+  [a relative link](features extraction/embedding java files/readme.md)
+
 
 ## 4. Run Meta Model:
 Now that you have completed the necessary steps for the meta model, you can run the `meta-model.ipynb` notebook. The notebook is based on the `algo_pre_processing.py` file.
