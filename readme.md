@@ -8,14 +8,12 @@ In the `data` directory, set up the following folders:
 - `MCW`: Save all the results of the MCW algorithm in this directory. Instructions on obtaining the results will be provided separately in section 2.
 
 ## 2. Extracting the Labels:
-Please refer to the detailed readme file located in the `labels extraction` folder for instructions on extracting the labels: 
-[a relative link](embedding-meta-model/labels extraction/readme.md)
+Please refer to the detailed readme file located in the `labels extraction` folder for instructions on extracting the labels, located [here](/labels-extraction/readme.md).
 
 
 ## 3. Features Extraction:
 - **Statistical Meta Features:** Execute the `statistical meta features.py` script to generate the statistical meta features.
-- **Embedding-based Meta Features:** Please refer to the detailed readme file located in the `embedding java files` folder for instructions on extracting embedding-based meta features from Java files:
-  [a relative link](embedding-meta-model/features extraction/embedding java files/readme.md)
+- **Embedding-based Meta Features:** Please refer to the detailed readme file located in the `embedding java files` folder for instructions on extracting embedding-based meta features from Java files, located [here](features-extraction/embedding-java-files/readme.md).
 
 
 ## 4. Run Meta Model:
